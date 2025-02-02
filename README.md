@@ -41,3 +41,5 @@ Optimized performance for fast-loading reports.
 - Open the Power BI (.pbix) file.
 - Use the interactive filters and slicers to explore different insights.
 - Analyze KPIs, sales trends, and performance metrics dynamically.
+
+**Data used** in this project includes Transcations, Calender, Customers, Products, Regions, Returns and Stores.
