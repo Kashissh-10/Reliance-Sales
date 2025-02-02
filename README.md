@@ -11,10 +11,10 @@ Created custom columns and measures for deeper insights.
 
 - **KPIs & Business Metrics**
 Developed Key Performance Indicators (KPIs) including:
-Total Revenue
-Average Order Value
-Sales by Product, Region & Time
-Customer Segmentation & Retention
+  - Total Revenue
+  - Average Order Value
+  - Sales by Product, Region & Time
+  - Customer Segmentation & Retention
 
 - **Interactive Visualizations**
 Created dynamic dashboards with various visual elements:
